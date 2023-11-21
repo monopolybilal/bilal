@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1700498468 source:c:\users\bilal\desktop\informatique\projet\20-11\main.c
+	"plateau.h"
+
+1700498772 c:\users\bilal\desktop\informatique\projet\20-11\plateau.h
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<conio.h>
+	<stdbool.h>
+	<unistd.h>
+
+1700498467 source:c:\users\bilal\desktop\informatique\projet\20-11\menu.c
+	"plateau.h"
+
+1700498468 source:c:\users\bilal\desktop\informatique\projet\20-11\plateau.c
+	"plateau.h"
+
+1700498653 source:c:\users\bilal\desktop\informatique\projet\20-11\plateau2.c
+	"plateau.h"
+	"plateau.h"
+
